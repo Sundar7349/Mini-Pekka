@@ -1,0 +1,92 @@
+.logo{
+    width: 70px;
+    height: 70px;
+    opacity: 20;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: greenyellow;
+
+}
+.logo:hover{
+    width: 80px;
+    height: 80px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.mail{
+    color:grey;
+    position: absolute; top: 0px; left: 1050px;
+    font-style: oblique;
+}
+.contacts{
+    color:grey;
+    position: absolute; top:40px; left: 1050px;
+    font-style:oblique;
+}
+
+.contacts:hover{
+    color:rgba(175, 46, 46, 0.196);
+    position: absolute; top:40px; left:1050px;
+    font-style: inherit;
+}
+
+.mail:hover{
+    color:rgba(175, 46, 46, 0.196);
+    position: absolute; top:0px; left:1050px;
+    font-style: inherit;}
+
+hr{
+     margin-top: 20px;
+     color: solid rgb(42, 6, 6);
+     width: 100%;
+}  
+.sec1{
+    color:grey;
+    font-style: oblique;
+    position:absolute; margin-left: 20px; top:90px;
+}
+.sec2{
+    color:grey;
+    font-style: oblique;
+    position:absolute; margin-left: 120px; top:90px;
+}
+.sec1:hover{
+    color: rgba(175, 46, 46, 0.196);
+    position:absolute; margin-left: 20px; top:90px;
+}
+.sec2:hover{
+    color: rgba(175, 46, 46, 0.196);
+    position:absolute; margin-left: 120px; top:90px;
+}
+.insta_img{
+    width: 50px;
+    height: 50px;
+    color:black;
+    position:absolute; left: 1400px;
+    
+}
+.twitter_img{
+    width: 50px;
+    height: 50px;
+    color:black;
+    position:absolute; left: 1450px;
+}
+  
+.h{
+    color: black;
+    position:absolute; top:170px; left:1020px;
+    text-align: center;
+    font-size: small;
+    font-style: oblique
+}
+.TB{
+   width: 400px;
+   height: 250px;
+   position:absolute; top: 130px;left:900px
+}
+.CR{
+    width: 600px;
+    height:600px;
+    position:absolute; top:150px;left:400px
+}
+  
